@@ -1,7 +1,7 @@
 {
   "name": "telegram-bot-app",
   "description": "Telegram Bot using Pyrogram",
-  "repository": "https://github.com/DAXXTEAM/COPYRIGHT2",
+  "repository": "https://github.com/wwwlbs22/COPYRIGHT_BOT",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
